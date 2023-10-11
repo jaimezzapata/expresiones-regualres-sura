@@ -1,0 +1,18 @@
+Expresiones regulares son codigos o estructuras que permiten validar un dato o valor ingresado
+
+Eventos
+    Usuario
+        Click, una tecla, scroll
+    Documento
+        Acciones de fondo no perceptibles para el usuario
+    Navegador
+        Maximimar, Minimizar, cargar contenido
+
+Validaciones:
+    Validaciones Front
+        Respuestas gráficas que no afecta al código o persistencia de datos
+    Validaciones Back
+        Respuestas lógicas que afecta al código 
+
+
+Listeners o escuchadores
